@@ -1,4 +1,4 @@
-To run this code run these commands one by:
+To run this code run these commands in order, one by one:
 
 npm install
 npm install firebase
