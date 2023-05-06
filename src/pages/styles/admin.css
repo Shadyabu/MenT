@@ -1,0 +1,16 @@
+.pagetitle{
+    background-color: white;
+    color: black;
+}
+
+.adminButton{
+    position:absolute;
+    background-color: #1daded;
+    margin-top: -30px;
+}
+
+.adminButton:hover{
+    position:absolute;
+    background-color: #1daded;
+    margin-top: -30px;
+}

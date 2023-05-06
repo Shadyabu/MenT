@@ -1,0 +1,50 @@
+h1{
+    font-size:250%;
+    color: black;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+p{
+    font-size: 120%;
+    color: black;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.homepageTitle{
+    background-color: transparent;
+    color: black;
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    top: 20%;
+}
+
+.homepageText{
+    font-size:20px;
+    position: absolute;
+    text-align: center;
+    left:-80px;
+    top: 64%;
+    width: 400px;
+}
+
+.homepageImage{
+    height: 300px;
+    position: absolute;
+    top: 32%;
+    right:36%;
+}
+
+.HomepageDiv{
+    background-color: white;
+    height:100vh;
+}
+
+.logo img{
+    height:70px;
+    margin-top: -11px;
+    margin-bottom:-15px;
+}

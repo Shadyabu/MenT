@@ -1,0 +1,35 @@
+.registerForm{
+    position: absolute;
+    background-color: white;
+    width: 300px;
+    left:40%;
+    padding: 2em;
+    border: 3px solid #1daded;
+    border-radius: 10px;
+}
+
+.createProfileHeader{
+    background-color: transparent;
+    color: black;
+    text-align: center;
+    width: 100vw;
+}
+.registerForm input, select{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 5px;
+    background-color: white;
+    border: 1px solid black;
+    width: 290px;
+    height:20px;
+    border-radius: 3px;
+}
+
+.registerForm button{
+    background-color: black;
+    margin: 1em;
+}
+
+.buttonAlign{
+    text-align: center;
+}

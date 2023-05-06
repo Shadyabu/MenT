@@ -1,0 +1,51 @@
+.profile-list {
+  display: grid;
+  grid-template-columns: 48% 48%;
+  gap: 20px;
+}
+
+.profile-list img {
+max-width: 80%;
+height: auto;
+} 
+
+.profiletitle{
+  background-color: transparent ;
+  color: black;
+  text-align: center;
+}
+
+.profileDiv{
+  background-color: transparent;
+  color: black;
+  text-align: center;
+}
+
+.profileDiv h1{
+  background-color: transparent;
+  color: black;
+  width:100%;
+  margin-left: 0px;
+}
+
+.profileDiv p{
+  background-color: transparent;
+  color: black;
+}
+
+li{
+  list-style-type: none;
+  margin:5px
+}
+
+.profileDiv button{
+  background-color: #1daded;
+}
+
+.profileDiv button:hover{
+  background-color: #1daded;
+}
+
+.profileDiv li{
+  font-size: large;
+}

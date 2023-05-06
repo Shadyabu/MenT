@@ -1,0 +1,264 @@
+{
+  "users": [
+    {
+      "username": "chrispaul",
+      "password": "test123",
+      "msgID": "NULL",
+      "id": 1
+    },
+    {
+      "username": "cam_thomas",
+      "password": "test123",
+      "msgID": "NULL",
+      "id": 2
+    },
+    {
+      "username": "steven_adams",
+      "password": "test123",
+      "msgID": "fkkAizBvY0SrfEoLMjVifP9a0Mq1",
+      "id": 3
+    },
+    {
+      "username": "kylianhayes",
+      "password": "test123",
+      "msgid": "y3qbr74li5P4BCSBwKONypaNSCB3",
+      "id": 4
+    },
+    {
+      "username": "christian_wood",
+      "password": "test123",
+      "msgid": "ptiO8cH6dsV4CVBDkxUj0xfnqTL2",
+      "id": 5
+    },
+    {
+      "username": "kylekuz",
+      "password": "test123",
+      "msgid": "miWp4hl6qFeVUsnO1oNsMNHOXL22",
+      "id": 6
+    },
+    {
+      "username": "damianlillard",
+      "password": "test123",
+      "msgid": "ZV5j0RP5hncW3tMVbD48xmC6dj33",
+      "id": 7
+    },
+    {
+      "username": "jeremy_lin",
+      "password": "test123",
+      "msgid": "Jne0vVtt7vR0zRInoEtYRLg6pT03",
+      "id": 8
+    },
+    {
+      "username": "austinreeves",
+      "password": "test123",
+      "msgid": "X1JsO1CDiVdJi7YROyNx2xd4ymu1",
+      "id": 9
+    },
+    {
+      "username": "jimmybutler",
+      "password": "test123",
+      "msgid": "kwqcyafeLyefRlXYpZf5LohLejo1",
+      "id": 10
+     },
+    {
+      "username": "eric_gordon",
+      "password": "test123",
+      "msgid": "",
+      "id": 11
+    }
+  ],
+  "profiles": [
+    {
+      "username": "chrispaul",
+      "full_name": "Chris Paul",
+      "age": "41",
+      "mentor_or_mentee": "Mentor",
+      "field_of_mentorship": "Software Development",
+      "work_experiences": [
+        {
+          "company": "FDM",
+          "role": "Software Developer",
+          "years": "20"
+        }
+      ],
+      "requirement": "Careers guidance",
+      "match": "",
+      "id": 1
+    },
+    {
+      "username": "cam_thomas",
+      "full_name": "Cam Thomas",
+      "age": "23",
+      "mentor_or_mentee": "Mentee",
+      "field_of_mentorship": "Cyber Security",
+      "work_experiences": [
+        {
+          "company": "FDM",
+          "role": "cyber security advisor",
+          "years": "1"
+        }
+      ],
+      "requirement": "Careers guidance",
+      "match": "",
+      "id": 2
+    },
+    {
+      "username": "steven_adams",
+      "full_name": "Steven Adams",
+      "age": "32",
+      "mentor_or_mentee": "Mentor",
+      "field_of_mentorship": "Consulting",
+      "work_experiences": [
+        {
+          "company": "FDM",
+          "role": "Logistics Consultant",
+          "years": "10"
+        }
+      ],
+      "requirement": "Careers guidance",
+      "match": "",
+      "id": 3
+    },
+    {
+      "username": "kylianhayes",
+      "full_name": "Kylian Hayes",
+      "age": "24",
+      "mentor_or_mentee": "Mentee",
+      "field_of_mentorship": "Software Development",
+      "work_experiences": [
+        {
+          "company": "FDM",
+          "role": "Software Developer",
+          "years": "2"
+        }
+      ],
+      "requirement": "Industry expertise",
+      "match": "eric_gordon",
+      "id": 4
+    },
+    {
+      "username": "christian_wood",
+      "full_name": "Christian Wood",
+      "age": "34",
+      "mentor_or_mentee": "Mentor",
+      "field_of_mentorship": "Software Development",
+      "work_experiences": [
+        {
+          "company": "FDM",
+          "role": "Software Developer",
+          "years": "11"
+        }
+      ],
+      "requirement": "Industry expertise",
+      "match": "",
+      "id": 5
+    },
+    {
+      "username": "kylekuz",
+      "full_name": "Kyle Kuzma",
+      "age": "25",
+      "mentor_or_mentee": "Mentee",
+      "field_of_mentorship": "Software Development",
+      "work_experiences": [
+        {
+          "company": "FDM",
+          "role": "Software Developer",
+          "years": "4"
+        }
+      ],
+      "requirement": "Industry expertise",
+      "match": "",
+      "id": 6
+    },
+    {
+      "username": "damianlillard",
+      "full_name": "Damian Lillard",
+      "age": "31",
+      "mentor_or_mentee": "Mentor",
+      "field_of_mentorship": "Consulting",
+      "work_experiences": [
+        {
+          "company": "FDM",
+          "role": "Tech Consultant",
+          "years": "4"
+        }
+      ],
+      "requirement": "Industry expertise",
+      "match": "",
+      "id": 7
+    },
+    {
+      "username": "jeremy_lin",
+      "full_name": "Jeremy Lin",
+      "age": "33",
+      "mentor_or_mentee": "Mentor",
+      "field_of_mentorship": "Software Development",
+      "work_experiences": [
+        {
+          "company": "FDM",
+          "role": "Software Developer",
+          "years": "4"
+        },
+        {
+          "company": "Google",
+          "role": "Software Developer",
+          "years": "4"
+        }
+      ],
+      "requirement": "Careers guidance",
+      "match": "",
+      "id": 8
+    },
+    {
+      "username": "austinreeves",
+      "full_name": "Austin Reeves",
+      "age": "21",
+      "mentor_or_mentee": "Mentee",
+      "field_of_mentorship": "Software Development",
+      "work_experiences": [
+        {
+          "company": "FDM",
+          "role": "Software Developer",
+          "years": "0.5"
+        }
+      ],
+      "requirement": "Careers guidance",
+      "match": "",
+      "id": 9
+    },
+    {
+      "username": "jimmybutler",
+      "full_name": "Jimmy Butler",
+      "age": "31",
+      "mentor_or_mentee": "Mentor",
+      "field_of_mentorship": "Project Management",
+      "work_experiences": [
+        {
+          "company": "FDM",
+          "role": "Project Manager",
+          "years": "5"
+        }
+      ],
+      "requirement": "FDM-specific guidance",
+      "match": "",
+      "id": 10
+    },
+    {
+      "username": "eric_gordon",
+      "full_name": "Eric Gordon",
+      "age": "35",
+      "mentor_or_mentee": "Mentor",
+      "field_of_mentorship": "Software Development",
+      "work_experiences": [
+        {
+          "company": "FDM",
+          "role": "Project Manager",
+          "years": "5"
+        }
+      ],
+      "requirement": "Industry expertise",
+      "match": "kylianhayes",
+      "id": 11
+    }
+  ]
+}

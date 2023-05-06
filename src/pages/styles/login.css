@@ -1,0 +1,62 @@
+.loginHeader{
+    background-color: transparent;
+    color: black;
+    width:100vw;
+    padding-left: 0%;
+    margin-left:0px;
+}
+
+.loginForm{
+    position: absolute;
+    background-color: white;
+    padding: 1em;
+    border: 3px solid #1daded;
+    width: fit-content;
+    left:41%;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.inputBox{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 5px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+.loginForm button{
+    background-color: black;
+    margin-top: 10px;
+    margin-bottom:60px;
+}
+.loginForm button:hover{
+    background-color: black;
+    margin-top: 10px;
+    margin-bottom:40px;
+}
+
+.switchLogReg{
+    position: absolute;
+    left:45%;
+    right:45%;
+    top: 355px;
+    background-color: black;
+}
+.switchLogReg:hover{
+    position: absolute;
+    left:45%;
+    right:45%;
+    top: 355px;
+    background-color: black;
+}
+
+footer{
+    position: absolute;
+    bottom:0px;
+    height: 15px;
+    padding-top: 5px;
+    background-color: black;
+    color:white;
+    border-top:3px solid #1daded;
+}
