@@ -1,3 +1,4 @@
+This is the first prototype of the project.
 To run this code run these commands in order, one by one:
 
 npm install
